@@ -19,7 +19,8 @@ Building eco was a transformative journey that taught us invaluable lessons in t
 
 Eco is not just an app; it's a movement towards a more sustainable and generous community. Join us in reducing food waste and fostering a sense of responsibility towards our environment with eco.
 
-### React + TypeScript + Vite
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
